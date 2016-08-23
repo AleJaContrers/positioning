@@ -1,0 +1,20 @@
+body{
+	margin:0;
+	padding:0;
+}
+.rojo, .verde, .azul{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+
+.rojo{
+	background-color: #EE3E64;
+}
+.verde{
+ 	background-color: #44ACCF;
+}
+.azul{
+	background-color: #B7D84B;
+}
